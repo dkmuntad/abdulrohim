@@ -1,0 +1,43 @@
+[
+  
+  {
+    "name": "DKM UNTAD",
+    "desc": "Landing Page Responsive Statis untuk Lembaga",
+    "image": "dkm",
+    "category": "dkm",
+    "links": {
+      "view": "https://dkmuntad.github.io/web/",
+      "code": "https://dkmuntad.github.io/web/"
+    }
+  },
+  {
+    "name": "SITAMPAN UNTAD",
+    "desc": "Sistem Informasi Terpadu MBKM UNTAD yang digunakan oleh lebih dari 10.000 Mahasiswa program MBKM dari Pendaftaran, pelaporan hingga rekognisi",
+    "image": "sitampan",
+    "category": "sitampan",
+    "links": {
+      "view": "https://sitampan.untad.ac.id/",
+      "code": "https://sitampan.untad.ac.id/"
+    }
+  },
+  {
+    "name": "INVITATION WEB",
+    "desc": "Undangan Pernikahan Dinamis bertemakan One Piece yang dibangun menggunakan framework django",
+    "image": "invitation",
+    "category": "invitation",
+    "links": {
+      "view": "https://dinirohim.pythonanywhere.com//?n=Rohim",
+      "code": "https://dinirohim.pythonanywhere.com//?n=Rohim"
+    }
+  },
+  {
+    "name": "MBKM UNTAD",
+    "desc": "Website Dinamis sebagai media informasi kepada peminat program MBKM yang dibuat dengan wordpress",
+    "image": "mbkmuntad",
+    "category": "mbkmuntad",
+    "links": {
+      "view": "https://mbkm.untad.ac.id/",
+      "code": "https://mbkm.untad.ac.id/"
+    }
+  }
+]
